@@ -1,7 +1,7 @@
 ### Hi there, I'm Nirali Parekh 👋
 
 
-## I'm an Computer Engineering Student and a Developer!!
+## I'm a Computer Engineering Student and a Developer!!
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other developers and make amazing projects
